@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "ImagePro"
+include ':openCVLibrary3413'
+
+include ':tensorflow-android-1.13.0-rc2'
